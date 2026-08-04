@@ -1,0 +1,5 @@
+# Extra dependency for training the BPR / EASE / FPMC / SASRec backbones.
+# Cornac may pin an older numpy, so install it in a SEPARATE virtual environment
+# from the main requirements.txt.
+cornac>=2.0
+torch>=2.0

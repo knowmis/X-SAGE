@@ -1,0 +1,8 @@
+# Main environment (Python 3.11): module, pipeline, focal FM, DeepFM/AFM, preprocessing.
+numpy==1.26.4
+pandas==2.1.4
+scipy==1.13.1
+scikit-learn==1.8.0
+pyarrow==24.0.0
+torch==2.12.0          # focal FM, DeepFM and AFM
+pygeohash==3.3.0       # Foursquare preprocessing

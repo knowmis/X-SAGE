@@ -1,0 +1,8 @@
+# Backbone environment (Python 3.11) for BPR, EASE, FPMC and SASRec, trained with Cornac.
+# Kept separate from requirements.txt because it uses numpy 2.
+cornac==2.5.0
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.17.1
+pyarrow==24.0.0
+torch==2.12.1
